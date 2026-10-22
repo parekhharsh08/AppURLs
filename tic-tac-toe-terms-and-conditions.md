@@ -1,4 +1,4 @@
-# Terms & Conditions for Neon Tic Tac Toe
+﻿# Terms & Conditions for Tic Tac Toe
 
 **Last Updated:** October 18, 2026  
 **Effective Date:** October 18, 2026  
@@ -9,7 +9,7 @@
 
 ## 1. Agreement to Terms
 
-By downloading, installing, accessing, or using **Neon Tic Tac Toe** ("the App"), provided by **InfinityTech** ("we", "us", or "our"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with all of these Terms, you must not use or install the App and should uninstall it immediately.
+By downloading, installing, accessing, or using **Tic Tac Toe** ("the App"), provided by **InfinityTech** ("we", "us", or "our"), you agree to be bound by these Terms and Conditions ("Terms"). If you do not agree with all of these Terms, you must not use or install the App and should uninstall it immediately.
 
 ---
 
@@ -27,7 +27,7 @@ Subject to your compliance with these Terms, InfinityTech grants you a personal,
 
 ## 3. Intellectual Property Rights
 
-All rights, title, and interest in and to the App — including but not limited to the codebase, custom game algorithms (such as the procedural AI engine), UI designs, graphics, visual animations, synthesized audio effects, trademarks, logos, and neon cyberpunk theme — are and shall remain the exclusive property of InfinityTech.
+All rights, title, and interest in and to the App â€” including but not limited to the codebase, custom game algorithms (such as the procedural AI engine), UI designs, graphics, visual animations, synthesized audio effects, trademarks, logos, and neon cyberpunk theme â€” are and shall remain the exclusive property of InfinityTech.
 
 Nothing in these Terms grants you ownership of any intellectual property in the App.
 
@@ -35,7 +35,7 @@ Nothing in these Terms grants you ownership of any intellectual property in the 
 
 ## 4. In-App Advertisements
 
-Neon Tic Tac Toe is provided free of charge and is supported by advertisements served through third-party advertising networks (such as Google AdMob).
+Tic Tac Toe is provided free of charge and is supported by advertisements served through third-party advertising networks (such as Google AdMob).
 
 - By using the App, you acknowledge and agree that ads (including banner, interstitial, and rewarded video ads) may be displayed during gameplay and navigation.
 - We strive to ensure that all advertisements adhere to Google Play Developer Program Policies. However, we do not endorse or assume responsibility for the content, accuracy, products, or services offered by third-party advertisers.
@@ -90,4 +90,4 @@ If you have any questions, feedback, or complaints regarding these Terms, please
 
 - **Support Email:** [infinitytech.app@gmail.com](mailto:infinitytech.app@gmail.com)
 - **Developer:** InfinityTech
-- **Game:** Neon Tic Tac Toe
+- **Game:** Tic Tac Toe

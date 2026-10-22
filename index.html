@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tic Tac Toe - Legal & Policies | InfinityTech</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-dark: #050816;
+      --card-bg: #0C1428;
+      --card-border: #1B2A4C;
+      --neon-cyan: #00F5FF;
+      --neon-pink: #FF2BD6;
+      --text-white: #FFFFFF;
+      --text-secondary: #94A3B8;
+      --text-muted: #64748B;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      background-color: var(--bg-dark);
+      color: var(--text-white);
+      font-family: 'Outfit', sans-serif;
+      line-height: 1.6;
+      padding: 40px 16px;
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    .container {
+      max-width: 680px;
+      width: 100%;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 24px;
+      padding: 44px 32px;
+      text-align: center;
+      box-shadow: 0 10px 40px rgba(0, 245, 255, 0.05);
+    }
+    .badge {
+      display: inline-block;
+      background: rgba(0, 245, 255, 0.12);
+      border: 1px solid rgba(0, 245, 255, 0.35);
+      color: var(--neon-cyan);
+      font-size: 11px;
+      font-weight: 700;
+      letter-spacing: 1.5px;
+      padding: 6px 14px;
+      border-radius: 999px;
+      margin-bottom: 16px;
+      text-transform: uppercase;
+    }
+    h1 {
+      font-size: 32px;
+      font-weight: 800;
+      color: var(--text-white);
+      margin-bottom: 8px;
+    }
+    p.subtitle {
+      color: var(--text-secondary);
+      font-size: 15px;
+      margin-bottom: 32px;
+    }
+    .cards {
+      display: flex;
+      flex-direction: column;
+      gap: 16px;
+    }
+    .card {
+      display: block;
+      background: rgba(15, 23, 44, 0.7);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 22px 24px;
+      text-align: left;
+      text-decoration: none;
+      transition: all 0.25s ease;
+    }
+    .card:hover {
+      border-color: var(--neon-cyan);
+      transform: translateY(-2px);
+      box-shadow: 0 8px 24px rgba(0, 245, 255, 0.15);
+    }
+    .card-title {
+      color: var(--neon-cyan);
+      font-size: 18px;
+      font-weight: 700;
+      margin-bottom: 4px;
+    }
+    .card-desc {
+      color: var(--text-secondary);
+      font-size: 13.5px;
+    }
+    .footer {
+      margin-top: 36px;
+      padding-top: 20px;
+      border-top: 1px solid var(--card-border);
+      color: var(--text-muted);
+      font-size: 13px;
+    }
+    .footer a {
+      color: var(--neon-cyan);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="badge">InfinityTech Legal Center</div>
+    <h1>Tic Tac Toe</h1>
+    <p class="subtitle">Official Policies, Disclosures & Terms of Service</p>
+
+    <div class="cards">
+      <a href="privacy-policy.html" class="card">
+        <div class="card-title">Privacy Policy &rarr;</div>
+        <div class="card-desc">Information regarding data protection, offline storage, and Google AdMob disclosures.</div>
+      </a>
+
+      <a href="terms-and-conditions.html" class="card">
+        <div class="card-title">Terms &amp; Conditions &rarr;</div>
+        <div class="card-desc">End user license agreement, usage rules, and intellectual property rights.</div>
+      </a>
+    </div>
+
+    <div class="footer">
+      &copy; 2026 InfinityTech. All rights reserved.<br>
+      Contact: <a href="mailto:infinitytech.app@gmail.com">infinitytech.app@gmail.com</a>
+    </div>
+  </div>
+</body>
+</html>

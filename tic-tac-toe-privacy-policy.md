@@ -1,4 +1,4 @@
-# Privacy Policy for Neon Tic Tac Toe
+﻿# Privacy Policy for Tic Tac Toe
 
 **Last Updated:** October 18, 2026  
 **Effective Date:** October 18, 2026  
@@ -9,11 +9,11 @@
 
 ## 1. Introduction
 
-Welcome to **Neon Tic Tac Toe** ("the App"), developed by **InfinityTech** ("we", "us", or "our"). We are committed to protecting your privacy and providing a safe, enjoyable gaming experience.
+Welcome to **Tic Tac Toe** ("the App"), developed by **InfinityTech** ("we", "us", or "our"). We are committed to protecting your privacy and providing a safe, enjoyable gaming experience.
 
 This Privacy Policy explains what information is collected, how it is used, and your rights regarding any data when you use the App.
 
-By installing and using Neon Tic Tac Toe, you agree to the collection and use of information in accordance with this policy.
+By installing and using Tic Tac Toe, you agree to the collection and use of information in accordance with this policy.
 
 ---
 
@@ -58,13 +58,13 @@ For users residing in the **European Economic Area (EEA)**, the **United Kingdom
 - You can revoke or change your privacy choices at any time through the **Ad Privacy Choices** option in the App Settings.
 
 For users in California, USA (CCPA/CPRA):
-- We do not "sell" personal data as traditionally defined. You may opt out of personalized interest-based advertising through your Android device settings (**Settings → Google → Ads → Delete advertising ID** or **Reset advertising ID**).
+- We do not "sell" personal data as traditionally defined. You may opt out of personalized interest-based advertising through your Android device settings (**Settings â†’ Google â†’ Ads â†’ Delete advertising ID** or **Reset advertising ID**).
 
 ---
 
 ## 5. Children's Privacy (COPPA & Google Play Families Policy)
 
-Neon Tic Tac Toe is designed as a family-friendly casual game suitable for general audiences.
+Tic Tac Toe is designed as a family-friendly casual game suitable for general audiences.
 - We do not knowingly collect personal identifiable information from children under the age of 13 (or under 16 in the EEA).
 - If you are a parent or guardian and believe that your child has provided personal information to third-party ad networks through the App, please contact us at **infinitytech.app@gmail.com**, and we will promptly take appropriate action.
 
@@ -94,4 +94,4 @@ If you have any questions, suggestions, or concerns regarding this Privacy Polic
 
 - **Email:** [infinitytech.app@gmail.com](mailto:infinitytech.app@gmail.com)
 - **Developer:** InfinityTech
-- **App:** Neon Tic Tac Toe (Android)
+- **App:** Tic Tac Toe (Android)
